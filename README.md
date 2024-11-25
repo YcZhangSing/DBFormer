@@ -47,9 +47,11 @@
 
 ## DBFormer Performance
 
-<img src="demos/res1.png" alt="res1" style="zoom:40%;" />
+![res3](demos/res1.jpg)
 
-<img src="demos/res2.png" alt="res1" style="zoom:30%;" />
+![res3](demos/res3.jpg)
+
+![res3](demos/res2.jpg)
 
 <center>:fire: Details of DBFormer will be released. Stay tuned :beers: :+1: </center>
 
