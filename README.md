@@ -34,6 +34,10 @@
 
 </center>
 
+
+
+<div align="left">
+
 - This study introduces **DBFormer**, A novel dual-branch multiscale model,was proposed for thesegmentation of wheat yellow dwarf disease. This model efficiently captured pathological features sourced from rich multispectral information, achieving mIoU and mAP scores of **87.92%** and **93.77%**, respectively. 
 
 - A novel **semi-automatic labeling method**, based on semi-supervised learning and vegetation indices, was designed to aid in the annotation of multispectral images..
