@@ -47,11 +47,11 @@
 
 ## DBFormer Performance
 
-![res3](demos/res1.jpg)
+![res3](demos/res01.jpg)
 
-![res3](demos/res3.jpg)
+![res3](demos/res03.jpg)
 
-![res3](demos/res2.jpg)
+![res3](demos/res02.jpg)
 
 <center>:fire: Details of DBFormer will be released. Stay tuned :beers: :+1: </center>
 
