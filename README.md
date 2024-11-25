@@ -47,9 +47,9 @@
 
 ## DBFormer Performance
 
-<img src="res1.png" alt="res1" style="zoom:40%;" />
+<img src="demos/res1.png" alt="res1" style="zoom:40%;" />
 
-<img src="res2.png" alt="res1" style="zoom:30%;" />
+<img src="demos/res2.png" alt="res1" style="zoom:30%;" />
 
 <center>:fire: Details of DBFormer will be released. Stay tuned :beers: :+1: </center>
 
